@@ -1,5 +1,4 @@
 # Trabajemos con sockets 
-> A curated list of awesome READMEs
 
 El proyecto es una actividad practica para la materia sistemas distribuidos.
 
