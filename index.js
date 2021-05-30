@@ -43,6 +43,7 @@ socket.on('connect',function(){
 
 socket.on('error',function(){
     console.log("No se pudo establecer conexion con el servidor")
+    disconnect();
 })
 
 socket.on('data', function (data) {
